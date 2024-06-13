@@ -4,7 +4,7 @@
 
 ## **Procedure:-**
 
-[First open the mysql workbanch or mysql command prompt, but I dont use the way. I used for [https://sqlbolt.com/]website. Then open webpage then directly to write the queries and answers for the task]
+[First open the mysql workbanch or mysql command prompt, but I dont use the way. I used for [https://sqlbolt.com/] website. Then open webpage then directly to write the queries and answers for the task]
 
 Step 1: Open file manager to create new file[fsdwdtdb-59] -> to then open cmd->code . -> then open vs code.
 
