@@ -16,4 +16,4 @@ step 4: Then open Sql Lession 1: Select Queries 101 to write  the given task ans
 
 step 5: Then step by step ( copy and paste ) the answer for [SqlCommends.md] file
 
-step 6: Then we can see the task github and netlify.
+step 6: Then we can see the task github [https://github.com/Gsara3497/fsdwdtdb-59.git].
